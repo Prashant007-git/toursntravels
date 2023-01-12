@@ -1,6 +1,6 @@
 # toursntravels
-It is is website built for bookings on travel and tours on top and famous destinations around the world
-for this I have used HTML,CSS,JAVASCRIPT,PHP,MYSQL
+It is is website built for bookings on travel and tours on top and famous destinations around the world     
+ have used HTML,CSS,JAVASCRIPT,PHP,MYSQL
 ![image](https://user-images.githubusercontent.com/87236676/182250357-c65f3c29-15d7-4e01-87a2-f43746d30d41.png)
 ![image](https://user-images.githubusercontent.com/87236676/182250728-dbf3f6ad-f9f7-4f37-bcb1-13e3ed0aba6f.png)
 ![image](https://user-images.githubusercontent.com/87236676/182250839-4f1f3cf9-e3a8-4667-a4e6-98fd5e2a78bb.png)
